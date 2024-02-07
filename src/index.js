@@ -3,7 +3,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 const App = () => {
-  const nombre = "arivera editado";
+  const nombre = "arivera editado probando";
   return <h1>Hola, soy { nombre }</h1>;
 };
 
